@@ -1,0 +1,28 @@
+print(2+2)
+print(50-5*3)
+
+print(8/4)
+
+print('l=4, x=7')
+
+mensaje = 'Hi bitch'
+print(mensaje)
+
+nombre=input('¿Como te llamas?')
+n = input("Introduce un numero entero : ")
+print((nombre + "n") * int(n))
+
+name = input ('¿Cual es tu nombre? ')
+print(name.lower())
+print(name.upper())
+print(name.title())
+
+nombre = input ('Ingresa tu nombre :')
+print (('Hola ' + nombre + ' !'*6)*(5))
+
+a = 47
+b=83
+xx=a/b
+print(xx)
+type(xx)
+

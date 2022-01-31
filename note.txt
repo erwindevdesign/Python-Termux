@@ -1,0 +1,3 @@
+notas de uso de vim desde termux:
+
+primer 
