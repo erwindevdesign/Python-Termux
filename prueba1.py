@@ -43,7 +43,7 @@ horas= float(input('Introduce tus horas de trabajo : '))
 coste=float(input('Imtroduce lo que cobras por hora : '))
 paga = horas * coste
 print('Tu paga es $', paga)
-'''
+
 
 horas=float(input('Introduce tus horad de trabajo: '))
 coste=float(input('Introduce lo que cobras por hora: '))
@@ -58,4 +58,10 @@ peso=input('¿Cual es tu peso en kg? ')
 estatura=input('¿Cual es tu estatura en metros? ')
 imc=round(float(peso)/float(estatura)**2,2)
 print ('Tu índice de masa corporal IMC es: '+str(imc))
+'''
+
+n=input('Introduce el dividendo (entero): ')
+m=input('Introduce el divisor (entero): ')
+print(n + ' entre ' + m + ' da como resultado: ' + str(int(n) // int(m)) + ' y el resto: ' + str(int(n) % int(m)))
+
 

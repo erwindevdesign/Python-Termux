@@ -1,2 +1,3 @@
 # Python-Termux
-Ejercicios de python desde Termux-VIM-GitHub:TokenKey con emmet 
+Ejercicios desde Android con Python en Termux-VIM-GitHub:TokenKey con emmeti.
+
